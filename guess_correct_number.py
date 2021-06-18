@@ -1,7 +1,7 @@
 import random
 
 randNumber = random.randint(1,100)
-print(randNumber)
+
 
 userGuess=None
 guesses=0
